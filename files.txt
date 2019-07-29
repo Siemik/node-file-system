@@ -1,0 +1,11 @@
+undefined.git
+cat.jpg
+files.txt
+index.js
+node_modules
+Nowy dokument tekstowy.txt
+package-lock.json
+package.json
+README.md
+tekst.txt
+Zawartość katalogu.txt
